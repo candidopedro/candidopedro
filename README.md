@@ -1,126 +1,131 @@
-<div align="center">
+ <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Pedro Henrique — Desenvolvedor Front-end" />
+# Pedro Henrique
 
-<br/>
+### Desenvolvedor em formação | Front-end & Software Development
 
-<a href="#-sobre-mim">Sobre</a> &nbsp;·&nbsp;
-<a href="#-tecnologias">Tecnologias</a> &nbsp;·&nbsp;
-<a href="#-projetos">Projetos</a> &nbsp;·&nbsp;
-<a href="#-foco-atual">Foco atual</a> &nbsp;·&nbsp;
-<a href="#-conquistas">Conquistas</a> &nbsp;·&nbsp;
-<a href="#-contato">Contato</a>
+*Transformando ideias em projetos, aprendendo e evoluindo através do código.*
 
-<br/><br/>
-
-<img src="assets/divider.svg" width="100%" alt="" />
+[![GitHub](https://img.shields.io/badge/GitHub-candidopedro-181717?style=for-the-badge&logo=github)](https://github.com/candidopedro)
 
 </div>
 
-## 👋 Sobre mim
+---
 
-Sou desenvolvedor front-end e gosto de construir interfaces **claras, responsivas e agradáveis de usar**.
-Aprendo na prática, um projeto de cada vez, e uso o GitHub para registrar minha evolução.
+## 👨‍💻 Sobre mim
 
-- 📍 Espírito Santo, Brasil
-- 🎯 Foco em HTML, CSS e JavaScript
-- 🌱 Estudando responsividade e boas práticas de código
-- 🤝 Aberto a networking, colaborações e novas oportunidades
+Olá! Sou Pedro Henrique, estudante e entusiasta da tecnologia, interessado em desenvolvimento de software, criação de interfaces e automação.
 
-<br/>
+Utilizo o desenvolvimento de projetos como principal ferramenta de aprendizado, buscando transformar conhecimentos teóricos em soluções práticas.
 
-## 🛠️ Tecnologias
+Tenho interesse em explorar diferentes tecnologias, compreender como os sistemas funcionam e desenvolver aplicações cada vez mais organizadas, funcionais e intuitivas.
 
-<p align="center">
-  <img src="assets/tech-html5.svg" height="40" alt="HTML" />
-  <img src="assets/tech-css3.svg" height="40" alt="CSS" />
-  <img src="assets/tech-javascript.svg" height="40" alt="JavaScript" />
-  <img src="assets/tech-git.svg" height="40" alt="Git" />
-  <img src="assets/tech-github.svg" height="40" alt="GitHub" />
-  <img src="assets/tech-figma.svg" height="40" alt="Figma" />
+- 💻 Interesse em desenvolvimento Front-end e Back-end.
+- 🐍 Estudando Python e lógica de programação.
+- 🌐 Desenvolvendo projetos com HTML, CSS e JavaScript.
+- ☕ Estudando fundamentos de programação com Java.
+- 🔧 Utilizando Git e GitHub para versionamento e gerenciamento de projetos.
+- 🚀 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens de programação
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs" />
 </p>
 
-<br/>
+### Ferramentas
 
-## 📂 Projetos
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/candidopedro/animacoes_css_ifrj">Animações CSS</a></h3>
-      <p>Estudos e experimentos com movimento e transições em CSS.</p>
-      <sub><code>HTML</code> · <code>CSS</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/candidopedro/html_css_quiz">HTML &amp; CSS Quiz</a></h3>
-      <p>Quiz interativo para testar conhecimentos de HTML e CSS.</p>
-      <sub><code>HTML</code> · <code>CSS</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/candidopedro/perfect_wheels">Perfect Wheels</a></h3>
-      <p>Página com foco em layout, tipografia e identidade visual.</p>
-      <sub><code>HTML</code> · <code>CSS</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏫 <a href="https://github.com/candidopedro/front_school">Front School</a></h3>
-      <p>Projeto de front-end para praticar estrutura e estilo.</p>
-      <sub><code>HTML</code> · <code>CSS</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/candidopedro/js_projeto1">JavaScript · Projeto 1</a></h3>
-      <p>Primeiro projeto prático com interatividade em JavaScript.</p>
-      <sub><code>JavaScript</code> · <code>CSS</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/candidopedro/js_projeto2">JavaScript · Projeto 2</a></h3>
-      <p>Evolução dos estudos com lógica e manipulação do DOM.</p>
-      <sub><code>JavaScript</code> · <code>CSS</code></sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/candidopedro?tab=repositories">Ver todos os repositórios →</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,windows" />
 </p>
 
-<br/>
+---
 
-## 🎯 Foco atual
+## 🚀 Projetos em destaque
 
-| Área | Status |
-|:--|:--|
-| JavaScript e manipulação do DOM | 🟢 Estudando |
-| Layouts responsivos | 🟢 Estudando |
-| Boas práticas e código limpo | 🟢 Praticando |
-| Versionamento com Git e GitHub | 🟢 Em uso |
+### 🎸 [Pocket One](https://github.com/candidopedro/pocket_one)
 
-<br/>
+Editor web independente para a pedaleira Sonicake Pocket Master (QME-10).
 
-## 🏆 Conquistas
+- Interface própria para gerenciamento e edição de presets.
+- Comunicação com o equipamento via USB MIDI e Bluetooth LE.
+- Manipulação de efeitos e cadeia de sinal.
+- Desenvolvimento com HTML, CSS e JavaScript.
 
-- 🦈 **Pull Shark** — pull requests aceitos no GitHub
-- ⚡ **Quickdraw** — issue ou pull request fechado em poucos minutos
+**Tecnologias:** HTML · CSS · JavaScript · Web MIDI · Web Bluetooth
 
-<br/>
+### 🐍 Projetos em Python
 
-## 📫 Contato
+Estudos e aplicações práticas desenvolvidos durante minha evolução na linguagem Python.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedrohenriquecan/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/candidopedro"><img src="assets/btn-github.svg" height="40" alt="GitHub" /></a>
-</p>
+- Automação de tarefas.
+- Organização de arquivos.
+- Programação orientada a objetos.
+- Manipulação de arquivos e diretórios.
+
+### 🌐 Projetos Front-end
+
+Experimentos e aplicações desenvolvidos para praticar estruturação de páginas, estilização e interatividade.
+
+- [Animações CSS](https://github.com/candidopedro/animacoes_css_ifrj)
+- [HTML & CSS Quiz](https://github.com/candidopedro/html_css_quiz)
+- [Perfect Wheels](https://github.com/candidopedro/perfect_wheels)
+- [Front School](https://github.com/candidopedro/front_school)
+
+---
+
+## 📚 Atualmente estudando
+
+| Área | Objetivo |
+|---|---|
+| Python | Lógica, automação e orientação a objetos |
+| JavaScript | Interatividade e manipulação do DOM |
+| HTML e CSS | Estruturação e interfaces responsivas |
+| Java | Fundamentos e orientação a objetos |
+| C# | Fundamentos de programação |
+| Git e GitHub | Versionamento e colaboração |
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=candidopedro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candidopedro&layout=compact&theme=github_dark&hide_border=true" />
+
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://streak-stats.demolab.com?user=candidopedro&theme=github-dark-blue&hide_border=true" />
 
-<sub>Feito com cuidado nos detalhes.</sub>
+</div>
+
+---
+
+## 🎯 Objetivos
+
+- Desenvolver projetos cada vez mais completos.
+- Aprimorar meus conhecimentos em Python e JavaScript.
+- Explorar o desenvolvimento Back-end.
+- Aprender boas práticas e arquitetura de software.
+- Participar de projetos colaborativos e contribuir com a comunidade open source.
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/candidopedro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquecan/)
+
+<br/>
+
+**Obrigado pela visita!** 🚀
 
 </div>
